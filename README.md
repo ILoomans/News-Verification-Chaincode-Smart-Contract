@@ -17,4 +17,4 @@ This node is responsible for verifying or opposing sources, and explaining why t
 
 ## Node 3 Reader
 
-This user only has access to read what is on the ledger, which articles are out there and who supports or opposes them. Because many news sites restrict access to articles (eg: through payment or disabling of adblocker), this node will not have access to the article data. They can however access the hash of the data, allowing them to verify that the article that they are reading is the same one verified on the ledger
+This user only has access to read what is on the ledger, which articles are out there and who supports or opposes them. Because many news sites restrict access to articles (eg: through payment or disabling of adblocker), this node will not have access to the article data. They can however access the hash of the data, allowing them to verify that the article that they are reading is the same one verified on the ledger.
